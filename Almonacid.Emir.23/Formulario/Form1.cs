@@ -38,7 +38,7 @@ namespace Formulario
         {
             if (lstMedicos.SelectedItem == null || lstPacientes.SelectedItem == null)
             {
-                // Mostrar mensaje de error
+                
                 MessageBox.Show("Debe seleccionar un Médico y un Paciente para poder continuar.");
                 return;
             }
