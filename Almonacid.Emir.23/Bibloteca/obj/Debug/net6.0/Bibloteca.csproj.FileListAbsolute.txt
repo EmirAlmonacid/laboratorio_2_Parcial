@@ -1,0 +1,12 @@
+C:\Users\emira\OneDrive\Escritorio\UTN 2024\Primer_Parcial\Almonacid.Emir.23\Bibloteca\bin\Debug\net6.0\Bibloteca.deps.json
+C:\Users\emira\OneDrive\Escritorio\UTN 2024\Primer_Parcial\Almonacid.Emir.23\Bibloteca\bin\Debug\net6.0\Bibloteca.dll
+C:\Users\emira\OneDrive\Escritorio\UTN 2024\Primer_Parcial\Almonacid.Emir.23\Bibloteca\bin\Debug\net6.0\Bibloteca.pdb
+C:\Users\emira\OneDrive\Escritorio\UTN 2024\Primer_Parcial\Almonacid.Emir.23\Bibloteca\obj\Debug\net6.0\Bibloteca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emira\OneDrive\Escritorio\UTN 2024\Primer_Parcial\Almonacid.Emir.23\Bibloteca\obj\Debug\net6.0\Bibloteca.AssemblyInfoInputs.cache
+C:\Users\emira\OneDrive\Escritorio\UTN 2024\Primer_Parcial\Almonacid.Emir.23\Bibloteca\obj\Debug\net6.0\Bibloteca.AssemblyInfo.cs
+C:\Users\emira\OneDrive\Escritorio\UTN 2024\Primer_Parcial\Almonacid.Emir.23\Bibloteca\obj\Debug\net6.0\Bibloteca.csproj.CoreCompileInputs.cache
+C:\Users\emira\OneDrive\Escritorio\UTN 2024\Primer_Parcial\Almonacid.Emir.23\Bibloteca\obj\Debug\net6.0\Bibloteca.sourcelink.json
+C:\Users\emira\OneDrive\Escritorio\UTN 2024\Primer_Parcial\Almonacid.Emir.23\Bibloteca\obj\Debug\net6.0\Bibloteca.dll
+C:\Users\emira\OneDrive\Escritorio\UTN 2024\Primer_Parcial\Almonacid.Emir.23\Bibloteca\obj\Debug\net6.0\refint\Bibloteca.dll
+C:\Users\emira\OneDrive\Escritorio\UTN 2024\Primer_Parcial\Almonacid.Emir.23\Bibloteca\obj\Debug\net6.0\Bibloteca.pdb
+C:\Users\emira\OneDrive\Escritorio\UTN 2024\Primer_Parcial\Almonacid.Emir.23\Bibloteca\obj\Debug\net6.0\ref\Bibloteca.dll
